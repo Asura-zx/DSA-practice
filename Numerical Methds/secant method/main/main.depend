@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703480427 source:c:\users\acer\onedrive\documents\programs\dsa\numerical methds\secant method\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
